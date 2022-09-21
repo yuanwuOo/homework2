@@ -1,9 +1,18 @@
+/* questions for oh
+1. nav->home
+2. font
+3. h1 & h2
+*/
+
+
 /* Style the body with the following:
 Default text is Verdana font with Arial as a fallback option
 There is a 25px margin on the top and sides. None on the bottom. */
 body{
     font: Verdana, Arial;
-	margin: 25px 25px 0px;
+	margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
 }
 
 
@@ -95,5 +104,5 @@ span{
 /* The footer should:
 Use a gradient background (Links to an external site.) that starts at #000000, goes to #0000ff at 25,  #0066ff at 70, and ends back at #000000. */
 footer{
-    background: linear-gradient(#000000, #0000ff 25%, #0066ff 70%, #000000);
+    background: linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000);
 }
