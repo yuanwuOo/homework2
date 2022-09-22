@@ -1,15 +1,8 @@
-/* questions for oh
-1. nav->home
-2. font
-3. h1 & h2
-*/
-
-
 /* Style the body with the following:
 Default text is Verdana font with Arial as a fallback option
 There is a 25px margin on the top and sides. None on the bottom. */
 body{
-    font: Verdana, Arial;
+    font-family: "Verdana", "Arial";
 	margin-top: 25px;
     margin-left: 25px;
     margin-right: 25px;
